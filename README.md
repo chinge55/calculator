@@ -1,2 +1,3 @@
 # calculator
-COMPILER -1
+COMPILER PROJECT
+trial-1
